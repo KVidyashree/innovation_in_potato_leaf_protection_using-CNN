@@ -7,7 +7,7 @@ Early blight:-Early blight is primarily a disease of stressed or senescing plant
 Late blight:-it is the most important disease of potato that can result into crop failures in a short period.
 Healthy leaf:-leaves with no disease are classified as healthy leaf.
 # procedure
-Firstly,download the image dataset for these various types of diseases from kaggle.
+Firstly,download the image dataset for these various types of leaves from kaggle.
 link to download:- https://www.kaggle.com/datasets/arjuntejaswi/plant-village
 convert the downloaded file to zip file.
 Then upload it to the google colab
